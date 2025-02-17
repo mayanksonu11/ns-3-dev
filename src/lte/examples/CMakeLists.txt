@@ -22,6 +22,7 @@ set(base_examples
     lena-uplink-power-control
     lena-x2-handover
     lena-x2-handover-measures
+    lena-rrc-band
 )
 
 foreach(
